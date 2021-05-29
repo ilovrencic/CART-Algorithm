@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="127eb70c-95e7-4ad3-883b-8627bd110af8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="or1dfuih" />
+  </component>
+  <component name="ProjectId" id="1q4mMfI2v8djp6XD1XYehhu912N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="All Tests" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" nameIsGenerated="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="127eb70c-95e7-4ad3-883b-8627bd110af8" name="Default Changelist" comment="" />
+      <created>1616347191777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616347191777</updated>
+      <workItem from="1616347193531" duration="1748000" />
+      <workItem from="1616355650683" duration="75296000" />
+      <workItem from="1617103815513" duration="60506000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="109" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616350095969">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="109" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1616350095969" />
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom" timestamp="1617301663232">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1617301663232" />
+    <state width="1398" height="235" key="GridCell.Tab.0.center" timestamp="1617301663230">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1617301663230" />
+    <state width="1398" height="235" key="GridCell.Tab.0.left" timestamp="1617301663229">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1617301663229" />
+    <state width="1398" height="235" key="GridCell.Tab.0.right" timestamp="1617301663231">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1617301663231" />
+    <state width="1398" height="292" key="GridCell.Tab.1.bottom" timestamp="1617020643205">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="292" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1617020643205" />
+    <state width="1398" height="292" key="GridCell.Tab.1.center" timestamp="1617020643201">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="292" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1617020643201" />
+    <state width="1398" height="292" key="GridCell.Tab.1.left" timestamp="1617020643200">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="292" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1617020643200" />
+    <state width="1398" height="292" key="GridCell.Tab.1.right" timestamp="1617020643202">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="292" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1617020643202" />
+    <state x="385" y="217" key="run.anything.popup" timestamp="1616714549467">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="217" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1616714549467" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1617236746252">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1617236746252" />
+  </component>
+</project>
